@@ -49,7 +49,7 @@ My background combines **Information Systems**, **software development**, and **
 
 ## 📫 Reach Me  
 - 🌐 **GitHub:** [github.com/noha-b](https://github.com/noha-b)  
-- 💼 **LinkedIn:** [linkedin.com/in/Noha Alhaqbani]([https://linkedin.com/in/noha-b](https://www.linkedin.com/in/noha-alhaqbani-09542030a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+- 💼 **LinkedIn:** [https://linkedin.com/in/noha-b](https://www.linkedin.com/in/noha-alhaqbani-09542030a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 - 📧 **Email:** nohaalhogbani@gmail.com  
 
 ---
