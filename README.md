@@ -21,7 +21,8 @@ My background combines **Information Systems**, **software development**, and **
   *(Tech used: Spring Boot, PostgreSQL)*  
 
 - 🤖 **AI Chatbot Assistant**  
-  A generative AI chatbot built with **Python**, **OpenAI API**, **LangChain**, and **Gradio**, providing conversational and contextual responses for user queries.  
+  A generative AI chatbot built with **Python**, **OpenAI API**, **LangChain**, and **Gradio**, providing conversational and contextual responses for user queries.
+🔹 [🧠 Live Demo] (https://huggingface.co/spaces/NohaBM/chatbot), (https://huggingface.co/spaces/NohaBM/healthyLifstyle), and (https://huggingface.co/spaces/NohaBM/RAGChatbot)
   *(Tech used: Python, OpenAI API, LangChain, Gradio)*  
 
 ---
