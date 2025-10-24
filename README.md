@@ -1,4 +1,3 @@
-# Noha-Bader
 # Hi, I'm Noha Alhaqbani👋  
 🎓 Information Systems Graduate | 💻 Software Development & Data Analysis | 🤖 Generative AI Enthusiast  
 
