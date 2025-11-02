@@ -12,7 +12,7 @@ My background combines **Information Systems**, **software development**, and **
 ## 🔭 Featured Projects  
 
 - 📱 **Dalelah – Mobile App (Graduation Project)**  
-  Developed a mobile application using **Flutter (Dart)** to assist users in making better decisions using a **Decision Tree (ID3) algorithm**.  
+  Developed a mobile application using **Flutter (Dart)** to assist users in making better decisions using a **Decision Tree algorithm**.  
   *(Tech used: Flutter, Dart, Decision Tree Algorithm)*  
 
 - 💡 **TechGlow – Web Platform**  
