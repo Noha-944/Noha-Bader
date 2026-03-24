@@ -4,8 +4,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I'm passionate about building intelligent, user-focused digital solutions.  
-My background combines **Information Systems**, **software development**, and **data analysis**, and I recently completed a **Generative AI Bootcamp**, where I explored prompt engineering, model integration, and real-world AI applications.
+I’m passionate about building intelligent, user-focused digital solutions. My background combines Information Systems, business analysis, and data analysis. Currently, I am a Digital Business Analyst Trainee (TAMHEER), gaining hands-on experience in requirements analysis, stakeholder collaboration, and process improvement.
 
 ---
 
