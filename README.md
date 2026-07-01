@@ -1,56 +1,95 @@
-# Hi, I'm Noha Alhaqbani👋  
-🎓 Information Systems Graduate | 💻 Software Development & Data Analysis | 🤖 Generative AI Enthusiast  
+# Hi, I'm Noha Alhaqbani 👋
+🎓 Information Systems Graduate | 📊 Business & Data Analyst | 💻 Software Development | 🤖 Generative AI Enthusiast
 
 ---
 
-## 👩‍💻 About Me  
-I’m passionate about building intelligent, user-focused digital solutions. My background combines Information Systems, business analysis, and data analysis. Currently, I am a Digital Business Analyst Trainee (TAMHEER), gaining hands-on experience in requirements analysis, stakeholder collaboration, and process improvement.
+## 👩‍💻 About Me
+
+I'm an Information Systems graduate passionate about building data-driven digital solutions that bridge business and technology. During my TAMHEER training, I gained hands-on experience in Business Analysis, Quality Assurance (QA), operations support, data validation, and stakeholder collaboration. I enjoy transforming business needs into practical solutions while continuously expanding my knowledge in AI, data, and software development.
 
 ---
 
-## 🔭 Featured Projects  
+## 🔭 Featured Projects
 
-- 📱 **Dalelah – Mobile App (Graduation Project)**  
-  Developed a mobile application using **Flutter (Dart)** to assist users in making better decisions using a **Decision Tree algorithm**.  
-  *(Tech used: Flutter, Dart, Decision Tree Algorithm)*  
+### 📱 Dalelah – Mobile App (Graduation Project)
+Developed a mobile application using **Flutter (Dart)** to help users make personalized travel decisions through a **Decision Tree algorithm**.
 
-- 💡 **TechGlow – Web Platform**  
-  A web application built with **Spring Boot** and **PostgreSQL**, focusing on efficient backend logic and database management.  
-  *(Tech used: Spring Boot, PostgreSQL)*  
+**Tech:** Flutter, Dart, Decision Tree Algorithm
 
-- 🤖 **AI Chatbot Assistant**  
-  A generative AI chatbot built with **Python**, **OpenAI API**, **LangChain**, and **Gradio**, providing conversational and contextual responses for user queries.
-🔹 [🧠 Live Demo] (https://huggingface.co/spaces/NohaBM/chatbot), (https://huggingface.co/spaces/NohaBM/healthyLifstyle), and (https://huggingface.co/spaces/NohaBM/RAGChatbot)
-  *(Tech used: Python, OpenAI API, LangChain, Gradio)*  
+### 💡 TechGlow – Web Platform
+Developed a web application using **Spring Boot** and **PostgreSQL**, focusing on backend development, REST APIs, and database management.
+
+**Tech:** Spring Boot, PostgreSQL, Java
+
+### 🤖 AI Chatbot Assistant
+Built AI-powered chatbot applications using **Python**, **OpenAI API**, **LangChain**, and **Gradio**.
+
+🔹 **Live Demos**
+- 🧠 Chatbot: https://huggingface.co/spaces/NohaBM/chatbot
+- 🥗 Healthy Lifestyle: https://huggingface.co/spaces/NohaBM/healthyLifstyle
+- 📚 RAG Chatbot: https://huggingface.co/spaces/NohaBM/RAGChatbot
+
+**Tech:** Python, OpenAI API, LangChain, Gradio
 
 ---
 
-## 🧠 Areas of Interest  
-- Generative AI & LLMs  
-- Data Analysis & Visualization  
-- Software Development (Web & Mobile)  
-- Information Systems Integration  
+## 💼 Experience
+
+### Information Systems Analyst Trainee (TAMHEER)
+- Business Analysis (BRDs, User Stories, Requirements Gathering)
+- QA Testing & UAT
+- Operations Support & Request Management
+- Data Validation & Data Quality
+- Process Improvement
+- Stakeholder Collaboration
 
 ---
 
-## 🛠️ Tech Stack  
-![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-blue)
-![Dart](https://img.shields.io/badge/Dart-Programming%20Language-00B4AB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+## 🧠 Areas of Interest
+
+- Business Analysis
+- Data Analytics & Business Intelligence
+- Generative AI & LLMs
+- Data Management & Governance
+- Software Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
+![Java](https://img.shields.io/badge/Java-Programming-red)
+![Dart](https://img.shields.io/badge/Dart-Language-00B4AB)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
 ![Gradio](https://img.shields.io/badge/Gradio-AI%20Interface-purple)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue)
+
+### Data & BI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
 
 ---
 
-## 📫 Reach Me  
-- 🌐 **GitHub:** [github.com/noha-b](https://github.com/noha-b)  
-- 💼 **LinkedIn:** [https://linkedin.com/in/noha-alhaqbani](https://www.linkedin.com/in/noha-alhaqbani-09542030a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📧 **Email:** nohaalhogbani@gmail.com  
+## 📜 Certifications
+
+- 🏅 Certified Data Management Professional (CDMP)
 
 ---
 
-⭐️ *“Building data-driven and AI-powered solutions to make technology more human.”*
+## 📫 Reach Me
+
+- 🌐 **GitHub:** https://github.com/noha-b
+- 💼 **LinkedIn:** https://www.linkedin.com/in/noha-alhaqbani-09542030a
+- 📧 **Email:** nohaalhogbani@gmail.com
+
+---
+
+⭐️ *"Passionate about leveraging data, business analysis, and AI to build impactful digital solutions."*
