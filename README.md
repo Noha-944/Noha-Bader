@@ -86,7 +86,7 @@ Built AI-powered chatbot applications using **Python**, **OpenAI API**, **LangCh
 
 ## 📫 Reach Me
 
-- 🌐 **GitHub:** https://github.com/noha-b
+- 🌐 **GitHub:** https://github.com/Noha-944/Noha-Bader
 - 💼 **LinkedIn:** https://www.linkedin.com/in/noha-alhaqbani-09542030a
 - 📧 **Email:** nohaalhogbani@gmail.com
 
