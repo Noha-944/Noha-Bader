@@ -80,7 +80,8 @@ Built AI-powered chatbot applications using **Python**, **OpenAI API**, **LangCh
 
 ## 📜 Certifications
 
-- 🏅 Certified Data Management Professional (CDMP)
+- 🏅 **Certified Data Management Professional (CDMP)**
+- 🏅 **Entry Certificate in Business Analysis (ECBA™)**
 
 ---
 
